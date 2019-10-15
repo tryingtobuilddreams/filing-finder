@@ -5,7 +5,7 @@ import requests
 from datetime import datetime, timedelta 
 import pandas_datareader.data as web
 
-API_KEY = '4WX6M2G38PV0YISE'
+API_KEY = 'YOUR API KEY HERE
 # TODO make the start and end date functionality
 # TODO implement the time horizon functionality
 
